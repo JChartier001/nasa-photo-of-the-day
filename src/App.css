@@ -35,12 +35,21 @@
 }
 
 p {
-  margin: 5%;
+  /* margin: 5%; */
   text-align: center;
 }
 
 img{
   max-width: 800 px;
   margin: 5%;
+}
+.date{
+  font-size: 2rem;
+}
+
+.explanation{
+  margin: 0 10%;
+  display:flex;
+  justify-content: center;
 }
 
