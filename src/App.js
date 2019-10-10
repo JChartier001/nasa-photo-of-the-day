@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
-import DailyPhoto from "./components/DailyPhoto"
+import DailyPhoto from "./components/DailyPhoto";
+
 
 function App() {
   return (
